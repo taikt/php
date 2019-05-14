@@ -5,7 +5,7 @@
  </head>
  <body>
 
- <?php echo '<p>Hello World:tai1234</p>'; ?> 
+ <?php echo '<p>Hello World:tai12346</p>'; ?> 
 
  </body>
 
@@ -14,7 +14,7 @@
    function sum(int ...$ints) {
       return array_sum($ints);
    }
-   print(sum(2, '3', 4.1));
+   print(sum(7, '3', 4.1));
 ?>
 
 </html>
